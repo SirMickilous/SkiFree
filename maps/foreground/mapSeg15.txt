@@ -1,0 +1,26 @@
+10 15 64 64
+// The first line should contain the width and height of the
+// map and the width and height of each tile. A list of character to
+// tile mappings is then provided where each character is preceded by a
+// # character. The dot character always defaults to a blank space 
+// Note that the referenced files should be in the same directory as the
+// tile map.
+#b=treetop.png
+#t=treemain.png
+// The actual tile map is preceded by the #map line
+#map
+b.......b.
+tb.....bt.
+.tbb..bt..
+..tt..tb..
+.......t..
+b..bbbb.b.
+t.btttt.t.
+..t.b..b.b
+.b..t..tbt
+.t...b..t.
+b..b.t....
+t.bt..b...
+..t..bt..b
+.b..bt..bt
+.t..t...t.
